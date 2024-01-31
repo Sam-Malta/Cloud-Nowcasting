@@ -2,3 +2,5 @@
 *.pth
 *.nc
 *.npy
+wandb/*
+__pycache__/*
