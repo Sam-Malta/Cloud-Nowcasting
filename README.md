@@ -55,7 +55,7 @@ The left side is the ground truth, and the right is the predicted. As you can se
 
 ## License
 
-This project operates under the aegis of the [MIT License](LICENSE).
+This project operates under the terms of the [MIT License](LICENSE).
 
 ## References
 
