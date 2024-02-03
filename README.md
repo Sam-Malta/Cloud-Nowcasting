@@ -67,3 +67,6 @@ This project operates under the terms of the [MIT License](LICENSE).
 
 <a id="4"></a>
 [3] Acevedo, N. (n.d.). Amid power outages, Puerto Rico faces critical time on its Energy Future. NBCNews.com. https://www.nbcnews.com/news/latino/puerto-rico-blackouts-power-grid-ailing-renewable-energy-rcna68754 
+
+
+The implementation in this project is modified from Rohit Panda's [Video Frame Prediction using ConvLSTM Network in PyTorch](https://sladewinter.medium.com/video-frame-prediction-using-convlstm-network-in-pytorch-b5210a6ce582)
