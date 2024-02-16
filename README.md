@@ -7,16 +7,16 @@ This project aims to predict the current and near-future cloud coverage over a s
 
 ## Table of Contents
 
-- [Cloud Nowcasting](#Cloud-Nowcasting)
+- [Cloud Nowcasting](#cloud-nowcasting)
   - [Introduction](#introduction)
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
+  - [A Focus on Puerto Rico](#a-focus-on-puerto-rico)
   - [Key Features](#key-features)
   - [Data Collection](#data-collection)
-  - [Training](#Training)
-  - [Prediction Visualizations](#findings-and-visualizations)
+  - [Findings and Visualizations](#findings-and-visualizations)
   - [License](#license)
-  - [References](#References)
+  - [References](#references)
 
 ## Project Overview
 
@@ -51,6 +51,10 @@ The comments inferenced were from two different NRA posts. The results are shown
 ![GIF 3](combined_2.gif)
 
 The left side is the ground truth, and the right is the predicted. As you can see the predicted is very similar to the ground truth.
+
+![Comparison of Binary Masks](new_binary_input_output.png)
+
+The average accuracy for the prediction is 75%
 
 
 ## License
