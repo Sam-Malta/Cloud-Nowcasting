@@ -52,9 +52,9 @@ The comments inferenced were from two different NRA posts. The results are shown
 
 The left side is the ground truth, and the right is the predicted. As you can see the predicted is very similar to the ground truth.
 
-![Comparison of Binary Masks](new_binary_input_output.png)
+![Comparison of Binary Masks](accuracydemonstration.png)
 
-The average accuracy for the prediction is 75%
+The average accuracy for the prediction is usually around 77%
 
 
 ## License
