@@ -42,7 +42,6 @@ Data was collected from the google cloud [repository of data](https://console.cl
 
 ## Findings and Visualizations
 
-The comments inferenced were from two different NRA posts. The results are shown below.
 
 ![GIF 1](combined_0.gif)
 
